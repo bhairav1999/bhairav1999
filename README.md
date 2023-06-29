@@ -1,5 +1,5 @@
 
-![logo](https://github.com/arturssmirnovs/github-profile-views-counter)
+![logo](https://pbs.twimg.com/media/E5rX5eGUYAYG7Su.jpg)
 <h1 align="center">Bhairav karande</h1>
 <h3 align="center">A Full Stack Web Developer from India</h3>
 <img
