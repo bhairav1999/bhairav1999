@@ -1,5 +1,5 @@
 
-![logo](https://pbs.twimg.com/media/E5rX5eGUYAYG7Su.jpg)
+![logo](https://repository-images.githubusercontent.com/280644628/3343df80-c90f-11ea-8f9c-4d5f3ad36cb2)
 <h1 align="center">Bhairav karande</h1>
 <h3 align="center">A Full Stack Web Developer from India</h3>
 <img
