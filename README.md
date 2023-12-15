@@ -9,6 +9,10 @@
   width="400px"
 />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhairav1999&label=Profile%20views&color=0e75b6&style=flat" alt="bhairavkarande" /> </p>
+
+<p align="left"> <a href="https://twitter.com/karandebhairav" target="blank"><img src="https://img.shields.io/twitter/follow/karandebhairav?logo=twitter&style=for-the-badge" alt="karandebhairav" /></a> </p>
+
 - 🔭 I’m currently working on **Web Development** 
 - 💬 Ask me about **HTML,CSS,JavaScript,React** 
 - 📫 How to reach me **bhairavkarande007@gmail.com**
