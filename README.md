@@ -99,15 +99,7 @@
         ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
         </details>
         
-   <details open>
-        <summary><b>🗄️ Database</b></summary>
-        <br>
-        
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-        ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-        ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
-        ![Oracle 12c](https://img.shields.io/badge/-Oracle%2012c-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-        </details>
+
         
  <details open>
         <summary><b>💻 Software and Tools</b></summary>
