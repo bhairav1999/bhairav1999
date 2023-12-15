@@ -61,13 +61,6 @@
 <!--  -->
 
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=bhairav1999&label=Profile%20views&color=0e75b6&style=flat"
-    alt="bhairav1999"
-  />
-</p>
-
 <p>
   <img
     align="left"
