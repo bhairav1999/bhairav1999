@@ -1,5 +1,5 @@
 <!-- Banner 20232A -->
-![logo]([[[[https://repository-images.githubusercontent.com/280644628/3343df80-c90f-11ea-8f9c-4d5f3ad36cb2](https://github.com/bhairav1999/bhairav1999/blob/main/BanNr.mp4)](https://github.com/bhairav1999/bhairav1999/blob/main/Banner.jpg)](https://github.com/bhairav1999/bhairav1999/blob/main/Bannernew.png)](https://github.com/bhairav1999/bhairav1999/blob/main/Bannernew.png))
+![logo](https://github.com/bhairav1999/bhairav1999/blob/main/Bannernew.png)
 
 
 <p align="center">
