@@ -67,7 +67,7 @@
     
   <div align = "center">
     
-   ![Stats Overview](https://raw.githubusercontent.com/bhairav1999/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+   ![Stats Overview](https://raw.githubusercontent.com/Bhairavkarande/github-stats/master/generated/overview.svg#gh-dark-mode-only)
     ![Most Used Languages](https://raw.githubusercontent.com/bhairav1999/github-stats/master/generated/languages.svg#gh-dark-mode-only)
     
   </div>
