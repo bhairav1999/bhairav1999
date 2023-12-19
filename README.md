@@ -1,5 +1,5 @@
 <!-- Banner 20232A -->
-![logo](https://github.com/bhairav1999/bhairav1999/blob/main/bannernew.png)
+![logo](https://github.com/bhairav1999/bhairav1999/blob/main/Bannernew.png)
 
 
 <p align="center">
